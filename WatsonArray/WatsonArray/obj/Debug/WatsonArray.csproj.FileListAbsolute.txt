@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\WatsonArray\WatsonArray\bin\Debug\WatsonArray.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WatsonArray\WatsonArray\bin\Debug\WatsonArray.exe
+c:\users\user\documents\visual studio 2015\Projects\WatsonArray\WatsonArray\bin\Debug\WatsonArray.pdb
+c:\users\user\documents\visual studio 2015\Projects\WatsonArray\WatsonArray\obj\Debug\WatsonArray.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\WatsonArray\WatsonArray\obj\Debug\WatsonArray.exe
+c:\users\user\documents\visual studio 2015\Projects\WatsonArray\WatsonArray\obj\Debug\WatsonArray.pdb
